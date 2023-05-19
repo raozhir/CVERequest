@@ -1,4 +1,4 @@
-# Class Scheduling System v1.0 has SQL injection
+# Online Jewelry Store v1.0 has SQL injection
 
 BUG_Author：likaiwen
 
